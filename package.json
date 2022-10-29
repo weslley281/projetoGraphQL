@@ -7,7 +7,7 @@
     "start": "nodemon"
   },
   "keywords": [],
-  "author": "",
+  "author": "Weslley Henrique Vieira Ferraz",
   "license": "ISC",
   "dependencies": {
     "apollo-server": "^2.4.8",
